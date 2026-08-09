@@ -11,6 +11,10 @@ An Android application designed to assist farmers by bringing multiple agricultu
 - **📚 Categorized Articles**: Knowledge base covering fruits, crops, diseases, and farming techniques.
 - **🌤️ Weather Forecasting**: Accurate weather updates and forecasts tailored for farming decisions.
 
+## 🎨 Application Designs & Screenshots
+
+![App Screen Designs](app_design.png)
+
 ## 📱 Tech Stack & Architecture
 
 - **Language**: Kotlin
