@@ -53,6 +53,3 @@ An Android application designed to assist farmers by bringing multiple agricultu
    - Sync Gradle project files.
    - Run on an emulator or physical Android device.
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
